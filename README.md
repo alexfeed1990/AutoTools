@@ -8,7 +8,7 @@ The main item introduced is called the *Tool Ring*. If you hold it in your offha
 
 # Known bugs:
 
-- If you have multiple tools of the same type in your hotbar, it will just switch over and over again inbetween them.
+- If you have multiple tools of the same type in your hotbar, it will just switch over and over again inbetween them. (Look at issue tracker)
 - ***IF YOU WANT TO RUN THIS MOD, ON FORGE 1.16.4, BEWARE THAT FORGE VERSIONS BELOW 1.17 (iirc) CRASH ON THE LATEST JAVA 8 RELEASE. THIS IS NOT A PROBLEM WITH MY MOD.*** (download an older release [here](https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u312-b07).)
 
 # Irrelevant information
