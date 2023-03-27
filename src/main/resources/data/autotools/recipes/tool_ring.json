@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "IEL",
+        " F "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_pickaxe"
+        },
+        "I": {
+            "item": "minecraft:iron_shovel"
+        },
+        "E": {
+            "item": "minecraft:ender_pearl"
+        },
+        "L": {
+            "item": "minecraft:iron_axe"
+        },
+        "F": {
+            "item": "minecraft:iron_hoe"
+        }
+    },
+    "result": {
+        "item": "autotools:tool_ring",
+        "count": 1
+    }
+}
