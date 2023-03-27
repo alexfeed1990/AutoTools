@@ -1,4 +1,4 @@
-***This mod is a work-in-progress project of mine. I may never work on it again. Depends if I'm feeling up to it.***
+***This mod is a work-in-progress project of mine. I may never work on it again. Depends if I'm feeling up to it. (The main functionality is finished)***
 
 # AutoTools
 This is a mod generally made for OneBlock (and since 1.16.4 is the latest version, you can put two-and-two together.)
