@@ -15,7 +15,9 @@ The main item introduced is called the *Tool Ring*. If you hold it in your offha
 
 Building this is as easy as building it. (i know, creative, right?) This project was made with IntelliJ Idea (community edition), so open the build.gradle file as a project and type IN THE TERMINAL (won't work otherwise):
   - ``.\gradlew build`` on Windows
-  - ```chmod +X gradlew
-       ./gradlew build``` on Linux
+  - ``
+    chmod +X gradlew;
+    ./gradlew build
+    `` on Linux
        
 You will find the mod jar in the build/libs folder.
