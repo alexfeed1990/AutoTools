@@ -20,4 +20,4 @@ Building this is as easy as building it. (i know, creative, right?) This project
     ./gradlew build
     `` on Linux
        
-You will find the mod jar in the build/libs folder.
+You will find the mod jar in the ``build/libs`` folder.
